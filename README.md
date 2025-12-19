@@ -237,7 +237,3 @@ This notebook validates:
 **Divyansh Atri**
 
 This project demonstrates deep understanding of numerical stability, floating-point arithmetic, and algorithmic robustness through rigorous theory and carefully designed experiments.
-
-## License
-
-This project is provided for educational and research purposes.
