@@ -40,9 +40,8 @@ env/
 .DS_Store
 Thumbs.db
 
+
 # Project specific
-plots/*.png
-plots/*.pdf
 *.log
 
 # Keep plots directory but ignore contents
