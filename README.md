@@ -15,9 +15,9 @@ numerical-lab/
 │   ├── 04_linear_systems_stability.ipynb
 │   ├── 05_backward_error_analysis.ipynb
 │   ├── 06_summary_and_guidelines.ipynb
-│   ├── 07_mixed_precision_experiments.ipynb      # Advanced
-│   ├── 08_floating_point_nonassociativity.ipynb  # Advanced
-│   └── 09_iterative_solvers_stability.ipynb      # Advanced
+│   ├── 07_mixed_precision_experiments.ipynb      
+│   ├── 08_floating_point_nonassociativity.ipynb  
+│   └── 09_iterative_solvers_stability.ipynb      
 ├── utils/                             # Shared utility modules
 │   ├── __init__.py
 │   ├── error_metrics.py              # Error measurement functions
